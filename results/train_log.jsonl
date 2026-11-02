@@ -1,0 +1,12 @@
+{"ds": "ETTh1", "model": "DLinear", "val_mse": 0.6765385405583815, "test_mse": 0.39623631994155323, "secs": 31.428582906723022, "d_model": 512, "epochs": 10, "lr": 0.0001, "bs": 32}
+{"ds": "ETTh1", "model": "PatchTST", "val_mse": 0.6889081597328186, "test_mse": 0.3800866087390618, "secs": 148.75232243537903, "d_model": 512, "epochs": 10, "lr": 0.0001, "bs": 32}
+{"ds": "ETTh1", "model": "TimesNet", "val_mse": 0.7981101999228651, "test_mse": 0.38956929675557395, "secs": 321.97010231018066, "d_model": 16, "epochs": 10, "lr": 0.0001, "bs": 32}
+{"ds": "ETTh1", "model": "PAttn", "val_mse": 0.69342492622408, "test_mse": 0.3861991275440563, "secs": 185.00131702423096, "d_model": 512, "epochs": 10, "lr": 0.0001, "bs": 32}
+{"ds": "ETTh1", "model": "TimeMixer", "val_mse": 0.6920153173533353, "test_mse": 0.3760868310928345, "secs": 46.02026891708374, "d_model": 16, "epochs": 10, "lr": 0.01, "bs": 128}
+{"ds": "ETTh1", "model": "TimeXer", "val_mse": 0.6824415281222574, "test_mse": 0.38151888508707754, "secs": 377.33884382247925, "d_model": 256, "epochs": 10, "lr": 0.0001, "bs": 4}
+{"ds": "ETTh2", "model": "DLinear", "val_mse": 0.24293996613811364, "test_mse": 0.338841658000919, "secs": 17.056215524673462, "d_model": 32, "epochs": 10, "lr": 0.0001, "bs": 32}
+{"ds": "ETTh2", "model": "PatchTST", "val_mse": 0.2253151105039499, "test_mse": 0.2970336839472028, "secs": 273.57181191444397, "d_model": 512, "epochs": 10, "lr": 0.0001, "bs": 32}
+{"ds": "ETTh2", "model": "TimesNet", "val_mse": 0.2432177938859571, "test_mse": 0.33511896520345047, "secs": 260.8503782749176, "d_model": 32, "epochs": 10, "lr": 0.0001, "bs": 32}
+{"ds": "ETTh2", "model": "PAttn", "val_mse": 0.21929279858754439, "test_mse": 0.2966185284947807, "secs": 37.606422662734985, "d_model": 32, "epochs": 10, "lr": 0.0001, "bs": 32}
+{"ds": "ETTh2", "model": "TimeMixer", "val_mse": 0.21427777883681384, "test_mse": 0.2894130943935703, "secs": 71.6246235370636, "d_model": 16, "epochs": 10, "lr": 0.01, "bs": 32}
+{"ds": "ETTh2", "model": "TimeXer", "val_mse": 0.21139592136655536, "test_mse": 0.28532779227410043, "secs": 102.36209440231323, "d_model": 256, "epochs": 10, "lr": 0.0001, "bs": 16}
